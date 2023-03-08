@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend developer & UI/UX Design</h3>
 <img align="right" alt="Desing&Coding" width="400px" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alfitho13&label=Profile%20views&color=0e75b6&style=flat" alt="alfitho13" /> </p>
+
 
 - 🌱 I’m currently learning **ReactJs,Golang,and UI/UX Design**
 
